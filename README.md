@@ -1,4 +1,8 @@
-### Hi there 👋
+### Projects
+
+
+### Studies
+[Deep-Learning-from-Scratch](https://github.com/aerojohn1223/DeepLearningfromScratch) : Basic deep learning implemented by python libraries
 
 <!--
 **aerojohn1223/aerojohn1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
