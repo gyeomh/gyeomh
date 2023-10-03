@@ -1,5 +1,5 @@
 ### Projects
-[2021-Number of Diners Prediction](https://github.com/aerojohn1223/2021-Number_of_Diners_Prediction) : Competition where you must predict the number of diners at lunchtime and dinnertime(hosted by Dacon, Jun-2021) 
+[2021-Number of Diners Prediction](https://github.com/aerojohn1223/2021-Number_of_Diners_Prediction) : Competition predicting the number of diners at lunch and dinner(hosted by Dacon, Jun-2021) 
 
 
 ### Studies
