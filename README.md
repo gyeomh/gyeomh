@@ -1,3 +1,16 @@
+### About Me
+- Name : John Hwangbo(황보겸)
+- Location : Seoul, Korea
+- Email : johnhwangbo17@gmail.com
+# Currently
+- studying *Statistics* and *International Relations* @ *University of Seoul*
+- as *Research* and *Translation* Intern of *Barun ICT Research Center* @ *Yonsei University*
+- interested in *Computer Vision* and *Multimodal Learning*
+# Experiences
+- Leader of *Samsung Software Developers Community - KATUSA* : NOV 2022 ~ MAY 2023
+- Team ML/DL leader of *Samsung Software Developers Community - KATUSA* : NOV 2022 ~ MAY 2023
+- Team ML/DA Member of *Google Developer Student Club - Universiy of Seoul* : 2021.03 - 2021.12
+
 ### Projects
 [2021-Number of Diners Prediction](https://github.com/aerojohn1223/2021-Number_of_Diners_Prediction) : Competition predicting the number of diners at lunch and dinner(hosted by Dacon, Jun-2021) 
 
