@@ -1,12 +1,12 @@
-### About Me
+# About Me
 - Name : John Hwangbo(황보겸)
 - Location : Seoul, Korea
 - Email : johnhwangbo17@gmail.com
-# Currently
+### Currently
 - studying *Statistics* and *International Relations* @ *University of Seoul*
 - as *Research* and *Translation* Intern of *Barun ICT Research Center* @ *Yonsei University*
 - interested in *Computer Vision* and *Multimodal Learning*
-# Experiences
+### Experiences
 - Leader of *Samsung Software Developers Community - KATUSA* : NOV 2022 ~ MAY 2023
 - Team ML/DL leader of *Samsung Software Developers Community - KATUSA* : NOV 2022 ~ MAY 2023
 - Team ML/DA Member of *Google Developer Student Club - Universiy of Seoul* : 2021.03 - 2021.12
