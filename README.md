@@ -16,6 +16,8 @@
 ### 🚀Projects
 [2021-Number of Diners Prediction](https://github.com/aerojohn1223/2021-Number_of_Diners_Prediction) : Competition predicting the number of diners at lunch and dinner(hosted by Dacon, Jun-2021) 
 
+[2022-Seoul Bike Rental Prediction](https://github.com/aerojohn1223/2022-Seoul_Bike_Rental_Prediction) : Competition predicting the rentals of the bikes in Seoul(hosted by Dacon, Dec-2022)
+
 
 ### 📚Studies
 [Deep-Learning-from-Scratch](https://github.com/aerojohn1223/DeepLearningfromScratch) : Basic deep learning implemented by python libraries
