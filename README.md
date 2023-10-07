@@ -18,7 +18,7 @@
 
 [2022-Seoul Bike Rental Prediction](https://github.com/aerojohn1223/2022-Seoul_Bike_Rental_Prediction) : Competition predicting the rentals of bikes, placed in Top 10%(hosted by Dacon, Dec-2022)
 
-[2022-Production_Quality_Prediction](https://github.com/aerojohn1223/2022-Production_Quality_Prediction) : Competition predicting quality of production, placed 3rd(hosted by Ministry of National Defense & Ministry of Science and ICT & Elice, Dec-2022)
+[2022-Production Quality Prediction](https://github.com/aerojohn1223/2022-Production_Quality_Prediction) : Competition predicting quality of production, placed 3rd(hosted by Ministry of National Defense & Ministry of Science and ICT & Elice, Dec-2022)
 
 
 ### 📚Studies
