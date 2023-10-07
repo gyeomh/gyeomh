@@ -1,4 +1,4 @@
-### About Me
+### 🙋🏻‍♂️About Me
 - Name : John Hwangbo(황보겸)
 - Location : Seoul, Korea
 - Email : johnhwangbo17@gmail.com
@@ -13,11 +13,11 @@
 - Team ML/DL leader of **Samsung Software Developers Community - KATUSA** : NOV 2022 ~ MAY 2023
 - Team ML/DA Member of **Google Developer Student Club - Universiy of Seoul** : 2021.03 - 2021.12
 
-### Projects
+### 🚀Projects
 [2021-Number of Diners Prediction](https://github.com/aerojohn1223/2021-Number_of_Diners_Prediction) : Competition predicting the number of diners at lunch and dinner(hosted by Dacon, Jun-2021) 
 
 
-### Studies
+### 📚Studies
 [Deep-Learning-from-Scratch](https://github.com/aerojohn1223/DeepLearningfromScratch) : Basic deep learning implemented by python libraries
 
 [MachineLearning-for-ComputerVision](https://github.com/aerojohn1223/MachineLearning-for-ComputerVision) : Computer Vision implemented by Tensorflow
