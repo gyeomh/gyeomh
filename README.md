@@ -1,7 +1,4 @@
 ### 🙋🏻‍♂️About Me
-- Name : John Hwangbo(황보겸)
-- Location : Seoul, Korea
-- Email : johnhwangbo17@gmail.com
   
  #### Currently
 - studying **Statistics** and **International Relations** @ **University of Seoul**
@@ -24,7 +21,9 @@
 ### 📚Studies
 [Deep-Learning-from-Scratch](https://github.com/aerojohn1223/DeepLearningfromScratch) : Basic deep learning implemented by python libraries
 
-[MachineLearning-for-ComputerVision](https://github.com/aerojohn1223/MachineLearning-for-ComputerVision) : Computer Vision implemented by Tensorflow
+[MachineLearning-for-ComputerVision](https://github.com/aerojohn1223/MachineLearning-for-ComputerVision) : Computer Vision by Tensorflow, with help
+
+[Computer Vision models-byPytorch](https://github.com/aerojohn1223/CVModels-byPytorch) : Computer Vision models implemented by Pytorch, without help
 
 <!--
 **aerojohn1223/aerojohn1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
