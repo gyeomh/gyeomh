@@ -23,8 +23,9 @@
 
 [MachineLearning-for-ComputerVision](https://github.com/aerojohn1223/MachineLearning-for-ComputerVision) : Computer Vision by Tensorflow, with help
 
-[Computer Vision models-byPytorch](https://github.com/aerojohn1223/CVModels-byPytorch) : Computer Vision models implemented by Pytorch, without help
+[Computer Vision models-byPytorch](https://github.com/aerojohn1223/CVModels-byPytorch) : Computer Vision models implemented by Pytorch
 
+[2023-Linear-Algebra](https://github.com/aerojohn1223/2023-Linear-Algebra) : Studying Linear Algebra online
 <!--
 **aerojohn1223/aerojohn1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
