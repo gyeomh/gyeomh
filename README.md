@@ -2,7 +2,6 @@
   
  #### Currently
 - studying **Statistics** and **International Relations** @ **University of Seoul**
-- **Research** and **Translation** Intern of **Barun ICT Research Center** @ **Yonsei University**
 - interested in **Computer Vision** and **Multimodal Learning**
   
  #### Experiences
