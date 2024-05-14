@@ -2,6 +2,7 @@
   
  #### Currently
 - studying **Statistics** and **International Relations** @ **University of Seoul**
+- conducting research @ **Multimodal Interactive Intelligence Lab** @ **Korea University**
 - interested in **Embodied AI** and **Multimodal Learning**
   
  #### Experiences
