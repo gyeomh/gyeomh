@@ -2,10 +2,10 @@
   
  #### Currently
 - studying **Statistics** and **International Relations** @ **University of Seoul**
-- conducting research @ **Multimodal Interactive Intelligence Lab** @ **Korea University**
 - interested in **Embodied AI** and **Multimodal Learning**
   
  #### Experiences
+- Research Internship @ **Multimodal Interactive Intelligence Lab** @ **Korea University** : Oct 2023 - Sep 2024
 - Leader of **Samsung Software Developers Community - KATUSA** : NOV 2022 ~ MAY 2023
 - Team ML/DL leader of **Samsung Software Developers Community - KATUSA** : NOV 2022 ~ MAY 2023
 - Team ML/DA Member of **Google Developer Student Club - Universiy of Seoul** : 2021.03 - 2021.12
