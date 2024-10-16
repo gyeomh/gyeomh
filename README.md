@@ -6,12 +6,8 @@
   
  #### Experiences
 - Research Internship @ **Multimodal Interactive Intelligence Lab** @ **Korea University** : Oct 2023 - Sep 2024
-- Leader of **Samsung Software Developers Community - KATUSA** : NOV 2022 ~ MAY 2023
-- Team ML/DL leader of **Samsung Software Developers Community - KATUSA** : NOV 2022 ~ MAY 2023
-- Team ML/DA Member of **Google Developer Student Club - Universiy of Seoul** : 2021.03 - 2021.12
 
 ### 🚀Projects
-[2021-Number of Diners Prediction](https://github.com/aerojohn1223/2021-Number_of_Diners_Prediction) : Competition predicting the number of diners at lunch and dinner(hosted by Dacon, Jun-2021) 
 
 [2022-Seoul Bike Rental Prediction](https://github.com/aerojohn1223/2022-Seoul_Bike_Rental_Prediction) : Competition predicting the rentals of bikes, placed in Top 10%(hosted by Dacon, Dec-2022)
 
