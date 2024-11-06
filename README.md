@@ -2,7 +2,7 @@
   
  #### Currently
 - studying **Statistics** and **International Relations** @ **University of Seoul**
-- interested in **Embodied AI** and **Multimodal Learning**
+- interested in **Embodied AI**, **Robotics**, and **Multimodal Learning**
   
  #### Experiences
 - Research Internship @ **Multimodal Interactive Intelligence Lab** @ **Korea University** : Oct 2023 - Sep 2024
